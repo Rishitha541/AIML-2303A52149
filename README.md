@@ -12,3 +12,9 @@ Lab 5 : [https://github.com/Rishitha541/AIML-2303A52149/blob/main/AIML_Lab_05.ip
 Lab 6 : [https://github.com/Rishitha541/AIML-2303A52149/blob/main/AIML_Lab_6.ipynb]
 
 Lab 7 : [https://github.com/Rishitha541/AIML-2303A52149/blob/main/AIML_Lab_07.ipynb]
+
+Lab 8 : []
+
+Lab 9 : []
+
+Lab 10 : [https://github.com/Rishitha541/AIML-2303A52149/blob/main/AIML_Lab_10.ipynb]

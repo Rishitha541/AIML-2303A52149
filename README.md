@@ -1,5 +1,5 @@
 # AIML-2303A52149
-Lab 1 : [https://github.com/Rishitha541/AIML-2303A52149/blob/main/AIML%20-%20Lab%202.ipynb]
+Lab 1 : [https://github.com/Rishitha541/AIML-2303A52149/blob/main/Lab-1%20AIML.ipynb]
 
 Lab 2 : [https://github.com/Rishitha541/AIML-2303A52149/blob/main/AIML%20-%20Lab%202.ipynb]
 
